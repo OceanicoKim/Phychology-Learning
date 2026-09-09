@@ -41,9 +41,7 @@
 ---
 
 > **`Dendrites:`** The tree branch-like structures of a neuron that **receive signals** from other nerve cells and **transmit them to the cell body**
-<div align="center">
   ![Structure-Neurone](pics/unit2/lesson1/Chapter1/Structure-Neurone.png)
-</div>
 >
 > **`Cell body (soma):`** the core part of a neuron that contains the nucleus and acts as the cell's **life support and command center**
 
@@ -118,9 +116,7 @@
 
 > **Cone:**
 >
-<div align="center">
  ![cone](pics/unit2/lesson1/Chapter1/cone.jpg)
-</div>
 > **Junction:** a **point** where **two or more things** join, meet, or **cross**
 
 > **Tallying up:** means **calculating the total score, amount, or number of something**. It involves (needs) adding **multiple items together to find the final sum**
@@ -158,9 +154,7 @@
 
 > sciatic: refers to the large nerve that runs from the lower back down the back of each leg, or relates the pain (sciatica) caused by its compression or irritation
 >
-<div align="center">
  ![sciatic](pics/unit2/lesson1/Chapter1/sciatic.jpg)
-</div>
 >
 > - compression: the process of reducing the size of data or files to save storage space or speed up transmission
 > - irritation: a state of feeling annoyed, impatient, or slightly angry, or a painful soreness or inflammation in a part of your body
@@ -168,18 +162,14 @@
 
 > Spine: the row of connected bones down the middle of the back, also known as the backbone
 >
-<div align="center">
- ![spine](pics/unit2/lesson1/Chapter1/spine.jpg)
-</div>
+![spine](pics/unit2/lesson1/Chapter1/spine.jpg)
 > dissipating: means to graduslly disappear, scatter, or waste away
 >
 > - scatter: to separate and go in different directions, or to throw things indifferent directions so they cover an area
 
 > sheath: A close-fitting protective cover or case designed to hold a blade, tool, or instrument
 >
-<div align="center">
  ![sheath](pics/unit2/lesson1/Chapter1/sheath.webp)
-</div>
 >
 > - close-fitting: something fitting tightly or snugly to the body without being loose or baggy
 >   - snugly: fitting closely, warmly, and comfortabaly in a cozy way
@@ -205,18 +195,14 @@
 > - ion: an atom or molecule that has gained or lost one or more electrons, giving it a net (overall, total, final) positive or negative charge
 > - amplify: to increase the strength, volume, or effect of something 
 >
-<div align="center">
- ![Nodes-of-Ranvier](pics/unit2/lesson1/Chapter1/Nodes-of-Ranvier.webp)
-</div>
+![Nodes-of-Ranvier](pics/unit2/lesson1/Chapter1/Nodes-of-Ranvier.webp)
 > *Myelinating Schewann cells: wrap around a single large axon to form a protective and insulating myelin sheath for fast signal conduction
 >
 > - conduction: the transfer of heat or electricity directly through a material without any movement of the material itself
 >
 > *Non-myelinating Schwann cells: also called Remak cells, loosely ensheath multiple small-diameter axons together to support and maintain them without forming (to form a, to create/build) myelin
 >
-<div align="center">
-  ![MyelinatingSchwann cells-or-not](pics/unit2/lesson1/Chapter1/MyelinatingSchwann-cells-or-not.jpg)
-</div>
+![MyelinatingSchwann cells-or-not](pics/unit2/lesson1/Chapter1/MyelinatingSchwann-cells-or-not.jpg)
 >
 > - ensheath: enclose, wrap, or cover something completely in a protective case or layer
 >
