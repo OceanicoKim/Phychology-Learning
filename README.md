@@ -206,7 +206,7 @@
 >
 > *Non-myelinating Schwann cells: also called Remak cells, loosely ensheath multiple small-diameter axons together to support and maintain them without forming (to form a, to create/build) myelin
 >
-> ![MyelinatingSchwann cells-or-not](pics/unit2/lesson1/Chapter1/MyelinatingSchwann cells-or-not.jpg)
+> ![MyelinatingSchwann cells-or-not](github.com/OceanicoKim/Phychology-Learning/blob/main/pics/unit2/lesson1/Chapter1/MyelinatingSchwann%20cells-or-not.jpg?raw=true)
 >
 > - ensheath: enclose, wrap, or cover something completely in a protective case or layer
 >
