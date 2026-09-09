@@ -41,9 +41,9 @@
 ---
 
 > **`Dendrites:`** The tree branch-like structures of a neuron that **receive signals** from other nerve cells and **transmit them to the cell body**
-
-![Structure-Neurone](/Users/nico/Documents/Structure-Neurone.png)
-
+<div align="center">
+![Structure-Neurone](pics/unit2/lesson1/Chapter1/Structure-Neurone.png)
+</div>
 > **`Cell body (soma):`** the core part of a neuron that contains the nucleus and acts as the cell's **life support and command center**
 
 > **`Axon hillock:`** specialized **part of a neuron's cell body** that connects to the axon and acts as the decision-making site where nerve **`impulses`** are generated
@@ -117,8 +117,9 @@
 
 > **Cone:**
 >
-> ![cone](/Users/nico/Documents/cone.jpg)
-
+<div align="center">
+ ![cone](pics/unit2/lesson1/Chapter1/cone.jpg)
+</div>
 > **Junction:** a **point** where **two or more things** join, meet, or **cross**
 
 > **Tallying up:** means **calculating the total score, amount, or number of something**. It involves (needs) adding **multiple items together to find the final sum**
@@ -156,7 +157,9 @@
 
 > sciatic: refers to the large nerve that runs from the lower back down the back of each leg, or relates the pain (sciatica) caused by its compression or irritation
 >
-> ![sciatic](/Users/nico/Documents/sciatic.jpg)
+<div align="center">
+ ![sciatic](pics/unit2/lesson1/Chapter1/sciatic.jpg)
+</div>
 >
 > - compression: the process of reducing the size of data or files to save storage space or speed up transmission
 > - irritation: a state of feeling annoyed, impatient, or slightly angry, or a painful soreness or inflammation in a part of your body
@@ -164,15 +167,18 @@
 
 > Spine: the row of connected bones down the middle of the back, also known as the backbone
 >
-> ![spine](/Users/nico/Documents/spine.jpg)
-
+<div align="center">
+ ![spine](pics/unit2/lesson1/Chapter1/spine.jpg)
+</div>
 > dissipating: means to graduslly disappear, scatter, or waste away
 >
 > - scatter: to separate and go in different directions, or to throw things indifferent directions so they cover an area
 
 > sheath: A close-fitting protective cover or case designed to hold a blade, tool, or instrument
 >
-> ![sheath](/Users/nico/Documents/sheath.webp)
+<div align="center">
+ ![sheath](pics/unit2/lesson1/Chapter1/sheath.webp)
+</div>
 >
 > - close-fitting: something fitting tightly or snugly to the body without being loose or baggy
 >   - snugly: fitting closely, warmly, and comfortabaly in a cozy way
@@ -198,16 +204,18 @@
 > - ion: an atom or molecule that has gained or lost one or more electrons, giving it a net (overall, total, final) positive or negative charge
 > - amplify: to increase the strength, volume, or effect of something 
 >
-> ![Nodes-of-Ranvier](/Users/nico/Documents/Nodes-of-Ranvier.webp)
-
+<div align="center">
+ ![Nodes-of-Ranvier](pics/unit2/lesson1/Chapter1/Nodes-of-Ranvier.webp)
+</div>
 > *Myelinating Schewann cells: wrap around a single large axon to form a protective and insulating myelin sheath for fast signal conduction
 >
 > - conduction: the transfer of heat or electricity directly through a material without any movement of the material itself
 >
 > *Non-myelinating Schwann cells: also called Remak cells, loosely ensheath multiple small-diameter axons together to support and maintain them without forming (to form a, to create/build) myelin
 >
-> ![MyelinatingSchwann cells-or-not](pics/unit2/lesson1/Chapter1/MyelinatingSchwann-cells-or-not.jpg)
->
+<div align="center">
+ ![MyelinatingSchwann cells-or-not](pics/unit2/lesson1/Chapter1/MyelinatingSchwann-cells-or-not.jpg)
+</div>
 > - ensheath: enclose, wrap, or cover something completely in a protective case or layer
 >
 >   - enclose; to surround something on all sides or to put something inside an envelope or package
@@ -218,7 +226,7 @@
 >     - curved: bending smoothly or having a rounded shape rather than being straight or flat
 >
 >   - perimeter measures the boundary of straight-sided shaped like a quadrilateral (rectangle, square, parallelogram), trapezoid, triangle etc.
->     ![shapes](/Users/nico/Documents/shapes.png)
+>     ![shapes](pics/unit2/lesson1/Chapter1/shapes.png)
 
 > presence: the state of being physically or mentally present/exist in a place, or the impressive ability to command attention simply by being there, whereas the absence means not there
 
