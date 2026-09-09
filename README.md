@@ -42,8 +42,9 @@
 
 > **`Dendrites:`** The tree branch-like structures of a neuron that **receive signals** from other nerve cells and **transmit them to the cell body**
 <div align="center">
-![Structure-Neurone](pics/unit2/lesson1/Chapter1/Structure-Neurone.png)
+  ![Structure-Neurone](pics/unit2/lesson1/Chapter1/Structure-Neurone.png)
 </div>
+>
 > **`Cell body (soma):`** the core part of a neuron that contains the nucleus and acts as the cell's **life support and command center**
 
 > **`Axon hillock:`** specialized **part of a neuron's cell body** that connects to the axon and acts as the decision-making site where nerve **`impulses`** are generated
@@ -214,8 +215,9 @@
 > *Non-myelinating Schwann cells: also called Remak cells, loosely ensheath multiple small-diameter axons together to support and maintain them without forming (to form a, to create/build) myelin
 >
 <div align="center">
- ![MyelinatingSchwann cells-or-not](pics/unit2/lesson1/Chapter1/MyelinatingSchwann-cells-or-not.jpg)
+  ![MyelinatingSchwann cells-or-not](pics/unit2/lesson1/Chapter1/MyelinatingSchwann-cells-or-not.jpg)
 </div>
+>
 > - ensheath: enclose, wrap, or cover something completely in a protective case or layer
 >
 >   - enclose; to surround something on all sides or to put something inside an envelope or package
