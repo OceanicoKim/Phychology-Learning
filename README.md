@@ -1,6 +1,6 @@
 # Lesson 1 
 ## Chapter 1
-
+### A
 > **`Glial:`** **non-neuronal cells** in the nervous system that **support**, **protect**, and **maintain** the environment for neurons.
 
 > **`Roughly:`** about, around
@@ -159,7 +159,7 @@
 > - compression: the process of reducing the size of data or files to save storage space or speed up transmission
 > - irritation: a state of feeling annoyed, impatient, or slightly angry, or a painful soreness or inflammation in a part of your body
 >   - soreness: a feeling of mild pain or discomfort in muscles or body, usually caused by hard exercise, injury, or illness
-
+### B
 > Spine: the row of connected bones down the middle of the back, also known as the backbone
 >
 ![spine](pics/unit2/lesson1/Chapter1/spine.jpg)
@@ -227,4 +227,102 @@
 > - Abrupt: sudden, unexpected, or unceremoniously brief and blunt in speech or manner
 >   - unceremoniously: means to do quickly, suddenly, and roughly, without showing any respect or politeness
 >   - manner: a way of doing something or a person's way of behaving
+> 
 
+> **`Derived`:**   obtained (got), developed, or **formed from a specific source or origin**
+
+> **`Excess`:** refers to an amount of something that is **more than what is necessary**, `permitted`, or `desirable`
+>
+> - **permitted:** means that something is officially **allowed** or given **permission** to happen 
+> - **desirable:** means something is **worth having, wanted**, or `pleasing` to most people
+>   - **pleasing:** giving a feeling of satisfaction, enjoyment, or **pleasure**.
+
+> **`Demonstrate`:** means to **show, prove, or make something clear** through `evidence`, **examples, or pratical action**
+>
+> - **evidence:** clue, the facts, signs, or **information that prove whether something is true or exists**
+
+> **`immune`:** the **body's natural defense network** that fights off harmful germs and `infections` to keep a person healthy 
+>
+> - infection: occurs (happens) when harmful germs, such as bacteria or viruses, enter a living body and cause illness
+
+> **`Autoimmune`:** autoimmune disease, a condition where the body's **immune system mistakenly attacks healty cells**
+
+> **`Sclerosis`:** medical condition where **body tissue** becomes **abnormally hard** 
+
+> **`Chronic`:** **long-lasting health condition or problem** that stays with a person for a very long time
+
+> **`Degrade`:** to **lower** the quality, value, or status of something
+
+> **`Sensory`:** relates to the physical senses, such as sight, hearing, touch, taste, and smell
+### C
+
+> **`Cognitive`:** relates to the mental processes of perception (feeling), memory, judgment, and reasoning 
+
+> **`Fatigue`:** a feeling of extreme tiredness or lack of energy that makes it hard to do everyday tasks 
+
+> **`Assumed`:** 
+
+> **`merely`:** Just, only
+
+> **`Passive`:** ⇌ Active, means accepting or allowing what happends or what others do without active response or resistance, 
+
+> **`Scaffolding`:**  a temporary structure used to support workers and materials during the construction (act of building) or repair of a building, or a teaching method that provides temporary support to students as they learn new skills![scaffolding](pics/unit2/lesson1/Chapter1/scaffolding.jpg)
+
+> **`Overturn`:**  to officially change or reverse (opposite) a previous decision, rule, or legal ruling
+
+> **`Outnumber`:** means to be greater in number than another group
+
+> **`Astrocyte`:** a star-shaped **glial cell** in the **central nervous system** that supports, protects, and regulates neurons ![astrocyte](pics/unit2/lesson1/Chapter1/astrocyte.png)
+
+> **`Anchor`:** heavy metal device dropped from a **ship to grip (tight hold) the `seabed`** and keep the `vessel` from drifting![anchor](pics/unit2/lesson1/Chapter1/anchor.jpg)
+>
+> - **seabed:** the solid surface of the earth that lies at the bottom of an ocean or sea
+> - **vessel:** large boat or ship used for travelling on water, or hollow container designed to hold liquids
+
+> **`Semi- `:** combining form used to describe something that is partly, **half**, or happening twice a period
+
+> **`Permeable`:** describes a material or membrane that **allows liquids or gases to pass through it**![Permeable-paving](pics/unit2/lesson1/Chapter1/Permeable-paving.jpg)
+
+> **`Boundary`:** **clear limit or rule** established to **define acceptable behavior** and protect personal space
+
+> **`Circulating`:** **the continous cycling** of something, such as blood, air, or information, through a closed system or among people
+
+> **`Toxin`:** **poisonous substance** produced by living cells or **organisms**
+
+> **`Regulate`:** means **control** activity, process, or system **by using official rules or laws**
+
+> **`Oligodendrocyte`: **a type of **central nervous system** cell that **creates the myelin sheath** to insulate and support nerve fivers
+>
+> ![Oligodendrocyte](pics/unit2/lesson1/Chapter1/Oligodendrocyte.jpg)
+
+> **`Exon`:** **section of gene** that contains the **genetic code** needed to **produce proteins**
+
+> **`Conversely`:** introduce a statement or idea that is the exact **opposite of the one previously mentioned**
+
+> **`Microglia`:** the specialized **immune cells** of the **central nervous system** that protect the brain and spinal cord by **clearing damaged neurons and fighting infections**
+>
+> ![Microglia](pics/unit2/lesson1/Chapter1/Microglia.jpg)
+
+> **`Constantly`:** **happening all the time** or **repeating continuously** without stopping
+
+> **`Monitor:`** a device that displays visual information, text, and graphic from a computer or other video source
+
+> **`Debris`:** refers pices of wood, metal, brick, or other **materials** that are **left after something has been destroyed**
+
+> **`Pathogen`:** any **microorganism**, such as a virus, bacterium, or dungus, that causes disease in living organisms
+
+> **`Scavenger`: an animal or organism that feeds on dead organic matter or `decaying` tissue**
+>
+> - **Decaying:** refers to the natural process of **organic matter breaking down, rotting, or declining in quality over time**
+
+> **`Engulf`:** to **swallow up, cover, or overwhelm** something completely
+
+> **`Phagocytosis`:** the **process** by which a cell **engulfs and destroys large `particles`**, such as bacteria or cellular debris, by wrapping its membrane around them
+>
+> - **particle:** tiny **portions (a part) of matter**, including atoms or electrons, which form fundamental building blocks of physical substances
+
+> ***Satellite cell**: a type of **neuroglia** in the **peripheral nervous system** that envelope and support neuron cell bodies within **ganglia to regulate the external chemical environment** 
+>
+> - **ganglia:** `clusters` of nerve cell bodies located **outside** the **central nervous system** that act as **relay points for transmitting electrical signals**
+>   - **cluster:** a group of similar things positioned or occurring closely together
+>   - **relay:** means passing something from one person or place to another![Types-glia](pics/unit2/lesson1/Chapter1/Types-glia.png)
